@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1788826305 source:c:\users\santi\desktop\topicos de programacion\clases\unidad 1 nuevo\strings\tetris\juego.c
+
+1788826265 source:c:\users\santi\desktop\topicos de programacion\clases\unidad 1 nuevo\strings\tetris\tablero.c
+
+1788836123 source:c:\users\santi\desktop\topicos de programacion\clases\unidad 1 nuevo\strings\tetris\pieza.c
+	"pieza.h"
+	<stdlib.h>
+
+1788836123 c:\users\santi\desktop\topicos de programacion\clases\unidad 1 nuevo\strings\tetris\pieza.h
+
+1788836487 source:c:\users\santi\desktop\topicos de programacion\clases\unidad 1 nuevo\strings\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pieza.h"
+
+1788826305 source:c:\users\santi\desktop\topicos de programacion\tetris\juego.c
+
+1788840181 source:c:\users\santi\desktop\topicos de programacion\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pieza.h"
+	"tablero.h"
+
+1788836123 c:\users\santi\desktop\topicos de programacion\tetris\pieza.h
+
+1788840181 source:c:\users\santi\desktop\topicos de programacion\tetris\pieza.c
+	"pieza.h"
+	<stdlib.h>
+	<time.h>
+
+1788840010 source:c:\users\santi\desktop\topicos de programacion\tetris\tablero.c
+	"tablero.h"
+	<stdio.h>
+	<stdlib.h>
+
+1788838036 c:\users\santi\desktop\topicos de programacion\tetris\tablero.h
+	"pieza.h"
+
